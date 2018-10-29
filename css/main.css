@@ -1745,6 +1745,9 @@ pre .javascript .function {
   max-width: 96px;
   height: auto;
   border: 2px solid #333;
+  border-radious: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
 }
 .site-author-name {
   margin: 5px 0 0;
@@ -1826,7 +1829,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #def978;
+  background: #ff1c1f;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2910,7 +2913,7 @@ hr {
 }
 code {
   color: #ff7600;
-  background: #fbf7f8;
+  background: #c0c0c0;
   margin: 2px;
 }
 .highlight,
